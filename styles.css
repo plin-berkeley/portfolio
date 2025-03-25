@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2758
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /* Resetting default margins/paddings */\
+* \{\
+    margin: 0;\
+    padding: 0;\
+    box-sizing: border-box;\
+\}\
+\
+/* Body and general styles */\
+body \{\
+    font-family: Arial, sans-serif;\
+    line-height: 1.6;\
+    background-color: #f4f4f4;\
+    color: #333;\
+\}\
+\
+/* Header styles */\
+header \{\
+    background-color: #333;\
+    color: white;\
+    padding: 20px 0;\
+    text-align: center;\
+\}\
+\
+header h1 \{\
+    font-size: 2.5em;\
+\}\
+\
+header p \{\
+    font-size: 1.2em;\
+    margin-top: 10px;\
+\}\
+\
+/* Main content section */\
+.container \{\
+    width: 80%;\
+    margin: 0 auto;\
+\}\
+\
+.work-samples \{\
+    padding: 40px 0;\
+    text-align: center;\
+\}\
+\
+.work-samples h2 \{\
+    font-size: 2em;\
+    margin-bottom: 30px;\
+\}\
+\
+.sample \{\
+    background-color: white;\
+    padding: 20px;\
+    margin: 20px 0;\
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\
+\}\
+\
+.sample h3 \{\
+    font-size: 1.8em;\
+    margin-bottom: 10px;\
+\}\
+\
+.sample p \{\
+    font-size: 1.1em;\
+    margin-bottom: 10px;\
+\}\
+\
+.btn \{\
+    display: inline-block;\
+    padding: 10px 20px;\
+    background-color: #333;\
+    color: white;\
+    text-decoration: none;\
+    border-radius: 5px;\
+    font-size: 1em;\
+\}\
+\
+.btn:hover \{\
+    background-color: #555;\
+\}\
+\
+/* Footer styles */\
+footer \{\
+    background-color: #333;\
+    color: white;\
+    padding: 10px 0;\
+    text-align: center;\
+\}\
+\
+footer p \{\
+    font-size: 1em;\
+\}\
+}
